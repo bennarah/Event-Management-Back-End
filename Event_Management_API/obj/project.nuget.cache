@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NZ+tBrcNfkU=",
+  "dgSpecHash": "yvukY9qaLH4=",
   "success": true,
-  "projectFilePath": "/workspaces/Event-Management-Back-End/Event API/Event API.csproj",
+  "projectFilePath": "/workspaces/Event-Management-Back-End/Event_Management_API/Event API.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"

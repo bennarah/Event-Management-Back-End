@@ -32,3 +32,15 @@
 /workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.pdb
 /workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.genruntimeconfig.cache
 /workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/ref/Event API.dll
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.csproj.AssemblyReference.cache
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/rpswa.dswa.cache.json
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.AssemblyInfoInputs.cache
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.AssemblyInfo.cs
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.csproj.CoreCompileInputs.cache
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.sourcelink.json
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.dll
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/refint/Event API.dll
+/workspaces/Event-Management-Back-End/Event_Management_API/obj/Debug/net10.0/Event API.pdb

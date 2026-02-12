@@ -4,7 +4,8 @@ builder.Services.AddControllers();
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+builder.Services.AddEndpointsApiExplorer();
+builder.ServicesSwaggerGen();
 
 var app = builder.Build();
 
@@ -18,5 +19,5 @@ app.UseHttpsRedirection();
 
 app.MapControllers();
 
-var summaries = new[]
+app.Run();
 

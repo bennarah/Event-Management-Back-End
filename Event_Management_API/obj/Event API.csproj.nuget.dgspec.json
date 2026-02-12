@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Event-Management-Back-End/Event API/Event API.csproj": {}
+    "/workspaces/Event-Management-Back-End/Event_Management_API/Event API.csproj": {}
   },
   "projects": {
-    "/workspaces/Event-Management-Back-End/Event API/Event API.csproj": {
+    "/workspaces/Event-Management-Back-End/Event_Management_API/Event API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Event-Management-Back-End/Event API/Event API.csproj",
+        "projectUniqueName": "/workspaces/Event-Management-Back-End/Event_Management_API/Event API.csproj",
         "projectName": "Event API",
-        "projectPath": "/workspaces/Event-Management-Back-End/Event API/Event API.csproj",
+        "projectPath": "/workspaces/Event-Management-Back-End/Event_Management_API/Event API.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Event-Management-Back-End/Event API/obj/",
+        "outputPath": "/workspaces/Event-Management-Back-End/Event_Management_API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
