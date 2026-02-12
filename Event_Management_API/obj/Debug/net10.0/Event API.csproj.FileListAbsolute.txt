@@ -1,0 +1,34 @@
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/appsettings.Development.json
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/appsettings.json
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/Event API.staticwebassets.endpoints.json
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/Event API
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/Event API.deps.json
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/Event API.runtimeconfig.json
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/Event API.dll
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/Event API.pdb
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/Event-Management-Back-End/Event API/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.csproj.AssemblyReference.cache
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/rpswa.dswa.cache.json
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.AssemblyInfoInputs.cache
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.AssemblyInfo.cs
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.csproj.CoreCompileInputs.cache
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.sourcelink.json
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/scopedcss/bundle/Event API.styles.css
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/staticwebassets.build.json
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/staticwebassets.build.json.cache
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/staticwebassets.development.json
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/swae.build.ex.cache
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.csproj.Up2Date
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.dll
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/refint/Event API.dll
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.pdb
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/Event API.genruntimeconfig.cache
+/workspaces/Event-Management-Back-End/Event API/obj/Debug/net10.0/ref/Event API.dll
