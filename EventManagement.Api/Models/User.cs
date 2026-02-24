@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace EventManagement.Api.Models
 {
     public class User
@@ -7,6 +10,7 @@ namespace EventManagement.Api.Models
         public string LastName { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
         public DateTime CreatedAt { get; set; }
+
         public ICollection<Registration> Registrations { get; set; } = new List<Registration>();
     }
 }
